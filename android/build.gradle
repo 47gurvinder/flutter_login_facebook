@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "flutter_login_facebook"
+    namespace "ru.innim.flutter_login_facebook"
     compileSdkVersion 28
 
     defaultConfig {
