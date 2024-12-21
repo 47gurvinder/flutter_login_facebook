@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace "ru.innim.flutter_login_facebook"
-    compileSdkVersion 28
+    compileSdkVersion 31
 
     defaultConfig {
         minSdkVersion 16
